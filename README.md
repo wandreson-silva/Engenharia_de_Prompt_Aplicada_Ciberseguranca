@@ -1,5 +1,3 @@
-# 🛡️ Engenharia de Prompt Aplicada à Cibersegurança
-
 # 🛡️ Engenharia de Prompt aplicada à Cibersegurança
 
 ## 🧱 Passo 1: Defina a intenção
@@ -218,8 +216,9 @@ Ao definir a intenção, fornecer contexto e estabelecer restrições, é possí
 Este repositório apresenta uma abordagem prática para combinar Engenharia de Prompt, aprendizagem técnica e segurança defensiva.
 
 ---
+# 👨‍💻 Autor
 
-**Autor:** Wandreson Silva
+**Wandreson Silva** 
 
 **Área de interesse:** Cibersegurança, Blue Team, Linux, Redes de Computadores, Python e Inteligência Artificial.
 
